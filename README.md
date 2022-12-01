@@ -1,7 +1,7 @@
 ![logo](https://github.com/MalmWareMan/MalmWareMan/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm AmirFarzam</h1>
 <h3 align="center">A Geek Full stack web developer from Iran 🇮🇷</h3>
-
+<img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malmwareman&label=Profile%20views&color=0e75b6&style=flat" alt="malmwareman" /> </p>
 
 - 🔭 I’m currently working on **3SootWeb**

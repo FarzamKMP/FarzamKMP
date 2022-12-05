@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **amirfarzamkmp@proton.me**
 
-- 📄 Know about my experiences [zil.ink/amirfarzam](zil.ink/amirfarzam)
+- 📄 Know about my experiences [https://amirfarzam.dev](https://amirfarzam.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

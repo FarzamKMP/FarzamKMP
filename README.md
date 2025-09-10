@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">Hey 👋 I'm Farzam Kamalpour</h1>
+<h1 align="center">Hey 👋 I'm AmirFarzam Kamalpour</h1>
 
 ###
 
